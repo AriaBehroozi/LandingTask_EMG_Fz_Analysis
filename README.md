@@ -73,5 +73,21 @@ Post-activation: 0.221 s after contact ended
 ```matlab
 % Place your Excel file (e.g., adinevand.land2.xlsx) in the same folder
 run('Landing_EMG_Fz_Analysis.m')
+🔗 References
+
+【1】Santello, M. (2005). Feedforward control of hand posture and force during grip–load force coordination. J. Neurophysiol.
+
+【2】Cowling, E. J., & Steele, J. R. (2001). The effect of gender and task on neuromuscular control during landing. J. Electromyogr. Kinesiol.
+
+【3】McNair, P. J., & Marshall, R. N. (1994). Landing characteristics in subjects with normal and anterior cruciate ligament-deficient knees. Arch. Phys. Med. Rehabil.
+
+👨‍💻 Author
+
+Aria Behroozi
+MSc Candidate – Sport Biomechanics
+University of Tehran
+📫 LinkedIn : www.linkedin.com/in/aria-behroozi-1996
+
+If this code helps your research, please ⭐ star the repo and cite it in your work.
 
 
