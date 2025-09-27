@@ -47,3 +47,31 @@ All calculations follow protocols supported by published research on neuromuscul
  Feedforward (Pre-activation): 0.706 s before contact
 Post-activation: 0.221 s after contact ended
 
+> Typical literature reports pre-activation ≈ 0.05–0.15 s before contact and post-activation ≈ 0.15–0.25 s after contact【1】【2】.
+
+---
+
+📊 Applications
+
+- ACL reconstruction research  
+- Landing mechanics and neuromuscular control  
+- Injury prevention studies  
+- Skill-based jump-landing assessments  
+
+---
+
+ 📦 Requirements
+
+- MATLAB R2021a or newer  
+- Signal Processing Toolbox  
+- Input file: Excel (`.xlsx`) with columns as specified  
+
+---
+
+ ⚙️ Usage
+
+```matlab
+% Place your Excel file (e.g., adinevand.land2.xlsx) in the same folder
+run('Landing_EMG_Fz_Analysis.m')
+
+
